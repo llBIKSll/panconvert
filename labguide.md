@@ -8,7 +8,8 @@ October 2018
 
 ![](./media/image3.tmp)
 
-########## Table of Contents
+**Table of Contents**
+-----
 
 
 
@@ -118,27 +119,27 @@ the hands-on labs.
 Sign into you Oracle Cloud
 ![](./media/image5.png)
 <https://cloud.oracle.com/en_US/sign-in>
+1\. Install JDK 8u161 from:
 Type you Cloud Account Name and press My Services
 
+2\. Install JDK 8u161 from:
 Type your use name and password then press Sign In
 
 ![](./media/image6.png)
 
-Go to Users, top right corner
+3\.Go to Users, top right corner
 
 ![](./media/image7.png)
 
-In User Management, find you self
+4\.In User Management, find you self
 
 ![](./media/image8.png)
 
-Go to Role
+5\.Go to Role
 
 ![](./media/image9.png)
 
-Scroll down the list and checkwhat role you have.
-
-If you do not have the need role. You need to talk to your Cloud Service Administator.
+Scroll down the list and checkwhat role you have.If you do not have the need role. You need to talk to your Cloud Service Administator.
 
 **SQL Developer**
 
