@@ -180,6 +180,7 @@ How to create a Compartment -
 <https://docs.cloud.oracle.com/iaas/Content/Identity/Tasks/managingcompartments.htm>
 
 **Section 1. Provisioning an Autonomous Data Warehouse Service**
+----------------------
 
 In this section you will be provisioning an Autonomous Data Warehouse
 Cloud (ADWC) instance using the UI capabilities of the service.
@@ -284,7 +285,8 @@ Click **Create Autonomous Data Warehouse** button.
 
 ![](./media/image24.png)
 
-#################### Section 2. Connecting to Autonomous Data Warehouse
+**Section 2. Connecting to Autonomous Data Warehouse**
+-----------
 
 In this section you will go through the steps of accessing the
 credentials for connecting to your ADW instance with external clients,
@@ -371,7 +373,8 @@ Next we will open SQL Developer and create a connection there.
 We connected with SQL Developer to the database. The next step would be
 to load date into the ADWC using SQL Developer.
 
-#################### Section 3. Provisioning an Autonomous Transaction Processing Service
+**Section 3. Provisioning an Autonomous Transaction Processing Service**
+---------
 
 In this section you will be provisioning an Autonomous Transaction
 Processing (ATP) instance using the UI capabilities of the service.
@@ -466,7 +469,8 @@ instance.
 We created an ATP instance. Next we will download the database
 credentials and connect to this instance using SQL Developer.
 
-#################### Section 4. Connecting to Autonomous Transaction Processing Database
+**Section 4. Connecting to Autonomous Transaction Processing Database**
+------
 
 In this section you will go through the steps of accessing the
 credentials for connecting to your ADW instance with external clients,
@@ -554,7 +558,8 @@ The connection to the ATP database using SQL Developer is created. The
 next step would be to load a table using SQL Developer from a local
 file.
 
-#################### Section 5. Creating an Autonomous Analytics Cloud instance
+**Section 5. Creating an Autonomous Analytics Cloud instance**
+---------
 
 You use Oracle Cloud Stack to set up services with Oracle Autonomous
 Analytics Cloud.
@@ -677,7 +682,8 @@ Activity page to check the current status. 
 
 []{#_Toc525204419 .anchor}
 
-#################### Section 6. Using Oracle Autonomous Analytics.
+**Section 6. Using Oracle Autonomous Analytics**
+-------
 
 Creating a Project
 
@@ -876,7 +882,8 @@ step.
 > explain the depicted information and click
 > Present.![](./media/image91.png)
 
-#################### Section 7. Conclusion
+**Section 7. Conclusion**
+-----
 
 Oracle Cloud Platform's built-in autonomous capabilities transform the
 way cloud services are delivered and consumed. Benefits for
