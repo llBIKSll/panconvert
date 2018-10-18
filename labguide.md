@@ -8,38 +8,33 @@ October 2018
 
 ![](./media/image3.tmp)
 
-########## Table of Contents {#table-of-contents .TOCheader}
+########## Table of Contents
 
- {#section .TOCHeading}
 
-[Introduction 4](#introduction)
 
-[Environment 5](#environment)
+[Introduction](#introduction)
 
-[Lab prerequisites 6](#lab-prerequisites)
+[Environment](#environment)
 
-[Section 1. Provisioning an Autonomous Data Warehouse Service
-7](#section-1.-provisioning-an-autonomous-data-warehouse-service)
+[Lab prerequisites](#lab-prerequisites)
 
-[Section 2. Connecting to Autonomous Data Warehouse
-15](#section-2.-connecting-to-autonomous-data-warehouse)
+[Section 1. Provisioning an Autonomous Data Warehouse Service](#section-1.-provisioning-an-autonomous-data-warehouse-service)
 
-[Section 3. Provisioning an Autonomous Transaction Processing Service
-20](#section-3.-provisioning-an-autonomous-transaction-processing-service)
+[Section 2. Connecting to Autonomous Data Warehouse](#section-2.-connecting-to-autonomous-data-warehouse)
 
-[Section 4. Connecting to Autonomous Transaction Processing Database
-26](#section-4.-connecting-to-autonomous-transaction-processing-database)
+[Section 3. Provisioning an Autonomous Transaction Processing Service](#section-3.-provisioning-an-autonomous-transaction-processing-service)
 
-[Section 5. Creating an Autonomous Analytics Cloud instance
-32](#section-5.-creating-an-autonomous-analytics-cloud-instance)
+[Section 4. Connecting to Autonomous Transaction Processing Database](#section-4.-connecting-to-autonomous-transaction-processing-database)
 
-[Section 6. Using Oracle Autonomous Analytics. 36](#_Toc525204419)
+[Section 5. Creating an Autonomous Analytics Cloud instance](#section-5.-creating-an-autonomous-analytics-cloud-instance)
 
-[Section 7. Conclusion 52](#section-7.-conclusion)
+[Section 6. Using Oracle Autonomous Analytics](#_Toc525204419)
 
-##########  {#section-1 .TOCandList}
+[Section 7. Conclusion](#section-7.-conclusion)
 
-########## Introduction
+
+
+**Introduction**
 
 Based on machine learning, Oracle Autonomous Cloud represents a new
 category of software automation. Oracle recently introduced Oracle
@@ -77,7 +72,7 @@ predictive insights.
 -   Up to 99.995 percent availability\*. \< 2.5 minutes downtime per
     month, including planned maintenance
 
-########## Environment
+**Environment**
 
 The following are the details of this specific environment where the
 workshop was built. Many of the values you can change them to speciffic
@@ -97,7 +92,7 @@ values from your environment.
   ATP Admin password     \<12 Character password like **Welcome12345**\>
   OAAC Instance Name     OAACv5
 
-########## Lab prerequisites
+**Lab prerequisites**
 
 **Access Check List**
 
