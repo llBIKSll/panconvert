@@ -113,24 +113,27 @@ the hands-on labs.
 >
 > **Required Role: AUTONOMOUS\_ANALYTICS\_ServiceAdministrator**
 
-How to check
-------------
+**How to check**
+
 Sign into you Oracle Cloud
 ![](./media/image5.png)
 <https://cloud.oracle.com/en_US/sign-in>
-
 Type you Cloud Account Name and press My Services
 
 Type your use name and password then press Sign In
+
 ![](./media/image6.png)
 
 Go to Users, top right corner
+
 ![](./media/image7.png)
 
 In User Management, find you self
+
 ![](./media/image8.png)
 
 Go to Role
+
 ![](./media/image9.png)
 
 Scroll down the list and checkwhat role you have.
@@ -176,7 +179,7 @@ workload.
 How to create a Compartment -
 <https://docs.cloud.oracle.com/iaas/Content/Identity/Tasks/managingcompartments.htm>
 
-#################### Section 1. Provisioning an Autonomous Data Warehouse Service
+**Section 1. Provisioning an Autonomous Data Warehouse Service**
 
 In this section you will be provisioning an Autonomous Data Warehouse
 Cloud (ADWC) instance using the UI capabilities of the service.
