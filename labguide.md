@@ -119,11 +119,9 @@ the hands-on labs.
 Sign into you Oracle Cloud
 ![](./media/image5.png)
 <https://cloud.oracle.com/en_US/sign-in>
-1\. Install JDK 8u161 from:
-Type you Cloud Account Name and press My Services
+1\.Type you Cloud Account Name and press My Services
 
-2\. Install JDK 8u161 from:
-Type your use name and password then press Sign In
+2\.Type your use name and password then press Sign In
 
 ![](./media/image6.png)
 
@@ -140,6 +138,7 @@ Type your use name and password then press Sign In
 ![](./media/image9.png)
 
 Scroll down the list and checkwhat role you have.If you do not have the need role. You need to talk to your Cloud Service Administator.
+
 
 **SQL Developer**
 
