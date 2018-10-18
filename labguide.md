@@ -72,26 +72,6 @@ predictive insights.
 -   Up to 99.995 percent availability\*. \< 2.5 minutes downtime per
     month, including planned maintenance
 
-**Environment**
-
-The following are the details of this specific environment where the
-workshop was built. Many of the values you can change them to speciffic
-values from your environment.
-
-  **Property**           **Value**
-  ---------------------- -------------------------------------------------
-  Cloud Account          gse00014216
-  Cloud User             andrei.manoliu\@oracle.com
-  ADWC Instance Name     ADWCInstance001
-  ADWC database Name     ADWCdb001
-  ADWC Admin user name   Admin
-  ADWC Admin password    \<12 Character password like **Welcome12345**\>
-  ATP Instance Name      ATPInstance001
-  ATP database Name      ATPdb001
-  ATP Admin user name    Admin
-  ATP Admin password     \<12 Character password like **Welcome12345**\>
-  OAAC Instance Name     OAACv5
-
 **Lab prerequisites**
 
 **Access Check List**
@@ -135,39 +115,27 @@ the hands-on labs.
 
 How to check
 ------------
+Sign into you Oracle Cloud
+![](./media/image5.png)
+<https://cloud.oracle.com/en_US/sign-in>
 
-+-----------------------------------+-----------------------------------+
-| Sign into you Oracle Cloud        | ![](./media/image5.png)           |
-|                                   |                                   |
-| <https://cloud.oracle.com/en_US/s |                                   |
-| ign-in>                           |                                   |
-|                                   |                                   |
-| Type you Cloud Account Name and   |                                   |
-| press My Services                 |                                   |
-+===================================+===================================+
-| Type your use name and password   | ![](./media/image6.png)           |
-| then press Sign In                |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| Go to Users, top right corner     | ![](./media/image7.png)           |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| In User Management, find you self | ![](./media/image8.png)           |
-| and press                         |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| Go to Role                        | ![](./media/image9.png)           |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| Scroll down the list and check    |                                   |
-| what role you have.               |                                   |
-|                                   |                                   |
-| If you do not have the need role. |                                   |
-| You need to talk to your Cloud    |                                   |
-| Service Administator              |                                   |
-+-----------------------------------+-----------------------------------+
+Type you Cloud Account Name and press My Services
+
+Type your use name and password then press Sign In
+![](./media/image6.png)
+
+Go to Users, top right corner
+![](./media/image7.png)
+
+In User Management, find you self
+![](./media/image8.png)
+
+Go to Role
+![](./media/image9.png)
+
+Scroll down the list and checkwhat role you have.
+
+If you do not have the need role. You need to talk to your Cloud Service Administator.
 
 **SQL Developer**
 
